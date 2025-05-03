@@ -5,7 +5,7 @@ This is a mood board I created for the NIMS website project.
 It shows the style and design for the website to have. I used colors, fonts, images, and layout ideas that look clean, professional, and academic.
 
 What’s included:
-- A mood board image (JPG)
+- A mood board image (PNG)
 - Colors inspired by Morehouse College (like maroon and gray)
 - Simple layout ideas (hero image, about section, programs, etc.)
 
